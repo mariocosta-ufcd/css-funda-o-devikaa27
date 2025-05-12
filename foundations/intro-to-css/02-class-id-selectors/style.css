@@ -1,0 +1,19 @@
+.first, .fifth
+{
+    background-color: lightpink; font-family: Verdana, DejaVu Sans , sans-serif
+}
+
+#second
+{
+   color: blue; font-size: 36px 
+}
+
+.third
+{
+    background-color: lightpink; font-family: Verdana, DejaVu Sans , sans-serif; font-size: 24px;
+}
+
+#fourth
+{
+    background-color: lightgreen; font-size: 24px; font-weight: bold
+}
